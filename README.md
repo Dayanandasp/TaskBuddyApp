@@ -34,9 +34,6 @@ TaskBuddy is a ReactJS-based task management application that helps users effici
 - **Local Storage**: To store tasks persistently in the browser.
 - **CSS**: For styling the application.
 
-![Screenshot 2025-01-08 122017](https://github.com/user-attachments/assets/8bf43093-640a-40bb-b557-fd1be2d04179)
-  
-
 ## 🚀 How to Run the Project
 
 1. Clone the repository:
